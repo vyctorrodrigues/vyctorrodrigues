@@ -1,27 +1,28 @@
 # 👋 Olá, sou Vyctor Rodrigues!
 
-🎯 Desenvolvedor Java Back-end em formação  
+🎯 Desenvolvedor Back-end em formação  
 🚀 Apaixonado por tecnologia criação de soluções inteligentes  
 📚 Estudante dedicado e constante, buscando minha primeira oportunidade na área de tecnologia
 
 ---
 ## 🖥️ Tecnologias
 
-- **Java** | **Spring Boot** | **JPA** | **Hibernate**
+- **Java** | **Spring Boot** | **JPA** | **Hibernate** | **Python** | **Postman**
 
 ### 🕹️ Progresso das Tecnologias:
-
+![Progresso em Postman](https://img.shields.io/badge/Postman-50%25-orange)
+![Progresso em Python](https://img.shields.io/badge/Python-48%25-yellowred)
 ![Progresso em Java](https://img.shields.io/badge/Java-100%25-green)
 ![Progresso em Spring Boot](https://img.shields.io/badge/Spring%20Boot-100%25-yellowgreen)
 ![Progresso em JPA](https://img.shields.io/badge/JPA-100%25-yellow)
 ![Progresso em Hibernate](https://img.shields.io/badge/Hibernate-100%25-yellow)
 
 - **RESTful APIs** (em andamento)
-  ![Progresso em RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-40%25-blue)
+  ![Progresso em RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-60%25-blue)
 
 - **MySQL** | **PostgreSQL** (em andamento)
   ![Progresso em MySQL](https://img.shields.io/badge/MySQL-50%25-blue)
-  ![Progresso em PostgreSQL](https://img.shields.io/badge/PostgreSQL-50%25-blue)
+  ![Progresso em PostgreSQL](https://img.shields.io/badge/PostgreSQL-100%25-blue)
 
 - **Git** | **GitHub** | **Gradle** | **Maven**
   ![Progresso em Git](https://img.shields.io/badge/Git-80%25-green)
@@ -41,7 +42,7 @@
 ## 💼 Projetos em Destaque
 
 🔹 **Link para o repositório**: Sistemas de Gerenciamento de Biblioteca(https://github.com/vyctorrodrigues/Sistema_De_Gerenciamento_De_Biblioteca.git)
-- **Status**: Em andamento
+- **Status**: Concluído
 
 - **Descrição**: Sistema de gerenciamento de bibliotecas para controle de livros, usuários e empréstimos.
   permite a administração de livros, registro de usuários, controle de empréstimos e devoluções, além de relatórios sobre os itens da biblioteca.
