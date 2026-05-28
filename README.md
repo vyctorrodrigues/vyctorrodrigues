@@ -16,6 +16,8 @@
 ![Progresso em Spring Boot](https://img.shields.io/badge/Spring%20Boot-100%25-yellowgreen)
 ![Progresso em JPA](https://img.shields.io/badge/JPA-100%25-yellow)
 ![Progresso em Hibernate](https://img.shields.io/badge/Hibernate-100%25-yellow)
+![Progresso em n8n](https://img.shields.io/badge/n8n-50%25-bluegreen)
+![Progresso em Redes e Computadores](https://img.shields.io/badge/Redes_e_Computadores-100%25-greenrose)
 
 - **RESTful APIs** (em andamento)
   ![Progresso em RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-60%25-blue)
@@ -57,7 +59,7 @@ Tecnologias: `Java`, `POO`.
 
 ## 📚 Progresso da Faculdade:
 
-![Progresso da Faculdade](https://img.shields.io/badge/Faculdade%20ADS-40%25-blue)
+![Progresso da Faculdade](https://img.shields.io/badge/Faculdade%20ADS-60%25-blue)
 
 ---
 
