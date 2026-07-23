@@ -11,7 +11,7 @@
 
 ### 🕹️ Progresso das Tecnologias:
 ![Progresso em Postman](https://img.shields.io/badge/Postman-50%25-orange)
-![Progresso em Python](https://img.shields.io/badge/Python-48%25-yellowred)
+![Progresso em Python](https://img.shields.io/badge/Python-70%25-yellowred)
 ![Progresso em Java](https://img.shields.io/badge/Java-100%25-green)
 ![Progresso em Spring Boot](https://img.shields.io/badge/Spring%20Boot-100%25-yellowgreen)
 ![Progresso em JPA](https://img.shields.io/badge/JPA-100%25-yellow)
