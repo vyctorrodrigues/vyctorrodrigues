@@ -7,7 +7,7 @@
 ---
 ## 🖥️ Tecnologias
 
-- **Java** | **Spring Boot** | **JPA** | **Hibernate** | **Python** | **Postman**
+- **Java** | **Spring Boot** | **JPA** | **Hibernate** | **Python** | **Postman** | **C#** |
 
 ### 🕹️ Progresso das Tecnologias:
 ![Progresso em Postman](https://img.shields.io/badge/Postman-50%25-orange)
