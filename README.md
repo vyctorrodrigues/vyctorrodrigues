@@ -13,6 +13,8 @@
 ![Progresso em Postman](https://img.shields.io/badge/Postman-50%25-orange)
 ![Progresso em Python](https://img.shields.io/badge/Python-70%25-yellowred)
 ![Progresso em Java](https://img.shields.io/badge/Java-100%25-green)
+![Progresso em C#](https://img.shields.io/badge/C%23-50%25-purple)
+![WPF](https://img.shields.io/badge/WPF-Em%20aprendizado-blue)
 ![Progresso em Spring Boot](https://img.shields.io/badge/Spring%20Boot-100%25-yellowgreen)
 ![Progresso em JPA](https://img.shields.io/badge/JPA-100%25-yellow)
 ![Progresso em Hibernate](https://img.shields.io/badge/Hibernate-100%25-yellow)
