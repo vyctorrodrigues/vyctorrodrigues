@@ -2,7 +2,7 @@
 
 🎯 Desenvolvedor Back-end em formação  
 🚀 Apaixonado por tecnologia criação de soluções inteligentes  
-📚 Estudante dedicado e constante, buscando minha primeira oportunidade na área de tecnologia
+📚 Estudante dedicado e constante, buscando minha primeira oportunidade como desenvolvedor JR
 
 ---
 ## 🖥️ Tecnologias
